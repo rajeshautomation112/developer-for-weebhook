@@ -7,6 +7,7 @@ public class FirstProgram{
 
         System.out.println("hello started cicd");
         System.out.println("++++++++++++++++");
+        System.out.println("*************************");
     }
 
 }
